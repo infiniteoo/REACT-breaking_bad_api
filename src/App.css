@@ -32,3 +32,11 @@ a {
   border: 0;
   margin: 10px 0;
 }
+
+header {
+  height: 200px;
+}
+
+header img {
+  width: 200px;
+}
